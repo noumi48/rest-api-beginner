@@ -1,2 +1,1 @@
-# Rest API Beginner by Udemy
-Rest API course code.
+# Python-Django Rest API Beginner
